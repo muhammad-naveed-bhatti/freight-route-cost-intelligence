@@ -1,0 +1,7 @@
+origin,destination,mode,weight_kg,volume_m3,planning_distance_km,planning_cost_usd,notes
+"Lahore, Pakistan","Dubai, UAE",Air,1000,5,1985,4250,Sample planning scenario
+"Lahore, Pakistan","Doha, Qatar",Air,750,3,2320,3650,Sample planning scenario
+"Karachi, Pakistan","Riyadh, Saudi Arabia",Sea,5000,18,2060,2900,Sample planning scenario
+"Dubai, UAE","Riyadh, Saudi Arabia",Road,2000,8,875,1650,Sample planning scenario
+"Hamburg, Germany","Warsaw, Poland",Road,3000,12,755,1780,Sample planning scenario
+"Jebel Ali, UAE","Lahore, Pakistan",Sea,8000,28,1990,4100,Sample planning scenario
